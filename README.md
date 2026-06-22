@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nyxettore
+- 👋 Hi, I’m @Doomguy
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on ...
